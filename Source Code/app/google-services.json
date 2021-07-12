@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151468654045",
+    "project_id": "siddy-s-notes",
+    "storage_bucket": "siddy-s-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151468654045:android:ec47ee207603e362c50a34",
+        "android_client_info": {
+          "package_name": "com.siddydevelops.siddysnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151468654045-7u1sqg1b89e23qpuhh9vtb031ltf1hok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx06gG-8jTyMOZLCB_zbXjv8hCbOQtNjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151468654045-7u1sqg1b89e23qpuhh9vtb031ltf1hok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
